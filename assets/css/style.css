@@ -1,0 +1,12 @@
+body{background:#DCDCDC;}
+h1{padding:40px 0;}
+.jobs{color:orange;}
+.box{background-color: blue;width: 400px}   
+
+.box-icon{background-color: #4682b4;position: relative;float:left;padding: 5px;height: 100px;color:#fff;}
+.box-icon i{font-size: 60px;padding:15px;}
+.box-tool{background-color: #fff;position: relative;float:left;padding:10px;height: 100px;color:#4682b4}
+.box-tool h3{font-size: 18px;}
+.box-tool p{font-size: 14px;}
+
+    

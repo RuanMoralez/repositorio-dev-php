@@ -23,16 +23,10 @@ and open the template in the editor.
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>TargetData - <c class="jobs">Upload</c></h1>
+                    <h1>TargetData - <c class="jobs">Start</c></h1>
                 </div>
                 <div class="container">
-                    <form action ="<?php echo URL_BASE."enriquecimento/upload"?>" method="post" enctype="multipart/form-data">
-                        <div class="form-group">
-                            <label for="exampleFormControlFile1">Escolha um arquivo do seu computador</label>
-                            <input type="file" class="form-control-file" id="exampleFormControlFile1" name="arquivo"><br>
-                            <input type="submit" class="btn btn-primary" id="exampleFormControlFile1" name = "enviar" value="Enviar">
-                        </div>
-                    </form>
+                    
                 </div>
             </div>
 

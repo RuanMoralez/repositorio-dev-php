@@ -5,7 +5,7 @@
         <group>
             <file>file:/C:/xampp/htdocs/TargetDataJobs/assets/css/style.css</file>
             <file>file:/C:/xampp/htdocs/TargetDataJobs/app/views/template.php</file>
-            <file>file:/C:/xampp/htdocs/TargetDataJobs/index.php</file>
+            <file>file:/C:/xampp/htdocs/TargetDataJobs/app/core/Controller.php</file>
         </group>
     </open-files>
 </project-private>

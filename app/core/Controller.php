@@ -14,8 +14,7 @@ namespace app\core;
  * @author Ruan Moralez
  */
 class Controller {
-    
-    public function load($viewName,$viewData=array()){
+    public function load($viewName, $viewData = array()) {
         extract($viewData);
         include "app/views/{$viewName}.php";
     }

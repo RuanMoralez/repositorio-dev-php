@@ -41,7 +41,7 @@ class Core {
             }
             
             if(isset($url[0])){
-                $this->parametro = array_filter($url);  
+                $this->parametro = array_filter($url); 
             }
         } else {
             $this->controller = ucfirst(CONTROLLER_PADRAO)."Controller";
